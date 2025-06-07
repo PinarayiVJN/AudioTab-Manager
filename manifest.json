@@ -1,5 +1,5 @@
 {
-  "manifest_version": 1,
+  "manifest_version": 3,
   "name": "AudioTab Manager",
   "version": "1.0",
   "description": "A browser extension that automatically pauses other YouTube and Spotify tabs playing audio, preventing overlapping sounds across multiple tabs and windows.",
